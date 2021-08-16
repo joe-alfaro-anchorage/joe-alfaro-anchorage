@@ -1,4 +1,4 @@
-- 👋 Hi, this is my github account for Anchorage Digital, personal account here @joe-alfaro
+- 👋 Hi, this is my github account for Anchorage Digital, personal account here [@joe-alfaro](www.github.com/joe-alfaro)
 - 👀 I write Javascript, mostly in the flavor of React and Typescript
 
 <!---
